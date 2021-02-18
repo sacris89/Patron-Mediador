@@ -1,0 +1,32 @@
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.exe
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.deps.json
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.runtimeconfig.json
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\ref\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Mediador\bin\Debug\net5.0\Mediador.pdb
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\ref\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.pdb
+C:\Users\usuario\Desktop\Patron mediador\Mediador\obj\Debug\net5.0\Mediador.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.exe
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.deps.json
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.runtimeconfig.json
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\ref\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\bin\Debug\net5.0\Mediador.pdb
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\ref\Mediador.dll
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.pdb
+C:\Users\usuario\Desktop\Patron mediador\Patron Mediador\obj\Debug\net5.0\Mediador.genruntimeconfig.cache
